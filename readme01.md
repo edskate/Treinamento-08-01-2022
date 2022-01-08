@@ -16,3 +16,11 @@
 -I need to go home
 -don´t worry
 - you go in the parque
+-She is a good teacher.
+-He is my cousin.
+-the pencil is on the deck
+-the glass is in the kitchen
+-It is a new dish.
+-He is a young man
+-The bus is at the corner
+-She is a pretty woman
