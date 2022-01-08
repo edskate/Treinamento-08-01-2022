@@ -9,4 +9,4 @@ console.useLayoutEffect((effect) => {
               };
 }, [input])
 const head = arr => arr[0//#region ];
-console.log()
+console.log(head)
