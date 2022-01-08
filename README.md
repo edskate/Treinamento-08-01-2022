@@ -14,4 +14,4 @@ Criação de To-do List 01
 -[x] this is !
 -[x] and..
 -[x] being
--[x] five 
+-[x] five
