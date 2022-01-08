@@ -28,6 +28,6 @@ Criação de To-do List 01
 -[x]forme to say
 -[x]There
 -[x]don´t
--[x]sorry 
+-[x]sorry
 -[x]yes
 -[x]All this time
