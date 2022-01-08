@@ -15,3 +15,19 @@ Criação de To-do List 01
 -[x] and..
 -[x] being
 -[x] five
+
+- Criação de todo List 2
+-[x] sometime
+-[x]honey
+-[x] just
+-[x] just do it
+-[x] the mon
+-[x] very
+-[x]this is funny
+-[x]wanna
+-[x]forme to say
+-[x]There
+-[x]don´t
+-[x]sorry 
+-[x]yes
+-[x]All this time
